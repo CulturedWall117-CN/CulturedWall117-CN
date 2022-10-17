@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CulturedWall117-CN
+- 👀 I’m interested in C++ and Java
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on C++ primers like me
+- 📫 How to reach me CulturedWall117@163.com
